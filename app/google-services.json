@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "280189655462",
+    "firebase_url": "https://x-ogame.firebaseio.com",
+    "project_id": "x-ogame",
+    "storage_bucket": "x-ogame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280189655462:android:9b877808369a16f91b9767",
+        "android_client_info": {
+          "package_name": "com.example.x_o_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280189655462-kuc8g6monabvv1gtit4e4u8nfbao1h73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.x_o_game",
+            "certificate_hash": "7e3e4802f0ab2ac2320f6c6f2ccb332e2865f45c"
+          }
+        },
+        {
+          "client_id": "280189655462-tvq68i2u3dqfk32qb3h0cacbhj6sq99v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4G0dTpjexyEufWKsHI3bZ2fxFslZKM8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280189655462-tvq68i2u3dqfk32qb3h0cacbhj6sq99v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
